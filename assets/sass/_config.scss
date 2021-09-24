@@ -1,0 +1,33 @@
+// Variáveris de cores
+
+$color-white:     #FFFFFF;
+$color-green:     #27ae60;
+$color-concrete:  #95a5a6;
+$color-midnight:  #2c3e50;
+$color-black:     #000000;
+
+// Variáveris Média Queries
+
+$media-mobile-s:    320px;
+$media-mobile-m:    375px;
+$media-mobile-l:    425px;
+$media-tablet:      768px;
+$media-desktop:     1024px;
+
+// Mixins de fontes
+
+@mixin font-title {
+    font-family: 'Ruda', sans-serif;
+    font-weight: 700;
+}
+
+@mixin font-subtitle {
+    font-family: 'Ruda', sans-serif;
+    font-weight: 500;
+}
+
+@mixin font-paragraf {
+    font-family: 'Ruda', sans-serif;
+    font-weight: 400;
+}
+
