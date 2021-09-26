@@ -200,8 +200,8 @@ html, body {
   width: 100%;
   margin-bottom: 10px;
 }
-.webview .servicos .container .s-carrousel .s-carrousel-container .s-carrousel-item .body .icon span i {
-  font-size: 38px;
+.webview .servicos .container .s-carrousel .s-carrousel-container .s-carrousel-item .body .icon .material-icons {
+  font-size: 48px;
 }
 .webview .servicos .container .s-carrousel .s-carrousel-container .s-carrousel-item .body .texto {
   display: flex;
